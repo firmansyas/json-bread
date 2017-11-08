@@ -1,0 +1,10 @@
+[
+   {
+      "id": 1509353572930,
+      "string": "abc",
+      "integer": "2",
+      "float": "1.0",
+      "date": "2017-10-18",
+      "boolean": "false"
+   }
+]
